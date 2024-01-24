@@ -2868,3 +2868,13 @@ data-styled.g113[id="sc-keyframes-hzrnsk"] {
 .sc-4acb0030-5 {
   display: none !important;
 }
+body {
+  position: relative;
+}
+#particles-js {
+  position: absolute;
+  height: 100vh;
+  /* width: 100vw; */
+  top: 0;
+  left: 0;
+}
