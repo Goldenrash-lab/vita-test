@@ -404,7 +404,7 @@ html body:after {
   top: 0;
   right: 0;
   position: absolute;
-  background-image: url("images/body-top-bg.png");
+  background-image: url("vita-test/images/body-top-bg.png");
   z-index: -1;
   background-size: 100%;
 } /*!sc*/
@@ -1207,14 +1207,14 @@ data-styled.g34[id="sc-47ab53d9-8"] {
   margin-top: 10vw;
   border-top: 0.2rem solid rgba(255, 255, 255, 0.15);
   padding: 5.555555555555555vw 5.555555555555555vw 6.527777777777778vw;
-  background-image: url("images/footer-bg.png");
+  background-image: url("vita-test/images/footer-bg.png");
   background-size: 100% 100%;
   background-position: bottom bottom;
   background-repeat: no-repeat;
 } /*!sc*/
 @media (max-width: 768px) {
   .huNLkm {
-    background-image: url("images/footer-bg-mobile.png");
+    background-image: url("vita-test/images/footer-bg-mobile.png");
     background-position: bottom center;
     margin-top: 10.4rem;
     padding: 4.8rem 1.6rem 9.4rem;
@@ -1644,7 +1644,7 @@ data-styled.g49[id="sc-5f057590-14"] {
   position: absolute;
   left: -5.555555555555555vw;
   top: 0;
-  background-image: url("images/features-bg.png");
+  background-image: url("vita-test/images/features-bg.png");
   width: 77.70833333333333vw;
   height: 90.34722222222221vw;
   background-size: 100%;
@@ -1660,7 +1660,7 @@ data-styled.g49[id="sc-5f057590-14"] {
   display: block;
   position: absolute;
   right: -5.555555555555555vw;
-  background-image: url("images/features-bg.png");
+  background-image: url("vita-test/images/features-bg.png");
   width: 77.70833333333333vw;
   height: 90.34722222222221vw;
   background-size: 100% 100%;
@@ -2245,7 +2245,7 @@ data-styled.g78[id="sc-80115017-4"] {
   position: absolute;
   left: 0;
   top: 0;
-  background-image: url("images/features-bg.png");
+  background-image: url("vita-test/images/features-bg.png");
   width: 91.59722222222221vw;
   height: 69.44444444444444vw;
   background-size: 100% 100%;

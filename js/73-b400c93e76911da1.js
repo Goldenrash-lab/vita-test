@@ -1728,61 +1728,61 @@
                   href: "https://vinuchain.org/",
                   title: "VinuChain",
                   description: "Feeless, L1, DAG Protocol",
-                  icon: "/images/vinuchain.svg",
+                  icon: "/vita-test/images/vinuchain.svg",
                 },
                 {
                   href: "https://play.google.com/store/apps/details?id=clutchnetwork.io",
                   title: "Vinufolio",
                   description: "Decentralized Web3 Wallet",
-                  icon: "/images/vinufolio.svg",
+                  icon: "/vita-test/images/vinufolio.svg",
                 },
                 {
                   href: "https://vinufoundation.org/",
                   title: "Vinu Foundation",
                   description: "Brand and image",
-                  icon: "/images/vinufoundation.svg",
+                  icon: "/vita-test/images/vinufoundation.svg",
                 },
                 {
                   href: "https://vinuswap.org/",
                   title: "VinuSwap",
                   description: "Decentralized, feeless swap",
-                  icon: "/images/vinuswap.svg",
+                  icon: "/vita-test/images/vinuswap.svg",
                 },
                 {
                   href: "https://www.scatter.art/vinupixels",
                   title: "VinuPixels",
                   description: "PixelArt NFT Collection",
-                  icon: "/images/vinupixels.png",
+                  icon: "/vita-test/images/vinupixels.png",
                 },
                 {
                   href: "https://vinu.cash",
                   title: "VinuPay",
                   description: "Decentralized, feeless payment",
-                  icon: "/images/vinupay.svg",
+                  icon: "/vita-test/images/vinupay.svg",
                 },
                 {
                   href: "https://drop.vitainu.org",
                   title: "VinuDrop",
                   description: "Raffle-style airdrop DAPP",
-                  icon: "/images/vinudrop.svg",
+                  icon: "/vita-test/images/vinudrop.svg",
                 },
                 {
                   href: "https://burn.vitainu.org",
                   title: "VinuBurn",
                   description: "Burn interface / scanner",
-                  icon: "/images/vinuburn.svg",
+                  icon: "/vita-test/images/vinuburn.svg",
                 },
                 {
                   href: "",
                   title: "VinuFinance",
                   description: "Decentralized, feeless lending protocol",
-                  icon: "/images/vinufinance.svg",
+                  icon: "/vita-test/images/vinufinance.svg",
                 },
                 {
                   href: "",
                   title: "VinuWear",
                   description: "Crypto designer clothing brand",
-                  icon: "/images/vinuclothing.svg",
+                  icon: "/vita-test/images/vinuclothing.svg",
                 },
               ],
             }),
@@ -1860,8 +1860,8 @@
           ";\n  border-top: 0.2rem solid rgba(255, 255, 255, 0.15);\n  padding: ",
           " ",
           " ",
-          ';\n  background-image: url("/images/footer-bg.png");\n  background-size: 100% 100%;\n  background-position: bottom bottom;\n  background-repeat: no-repeat;\n\n  @media ',
-          ' {\n    background-image: url("/images/footer-bg-mobile.png");\n    background-position: bottom center;\n    margin-top: 10.4rem;\n    padding: 4.8rem 1.6rem 9.4rem;\n  }\n',
+          ';\n  background-image: url("/vita-test/images/footer-bg.png");\n  background-size: 100% 100%;\n  background-position: bottom bottom;\n  background-repeat: no-repeat;\n\n  @media ',
+          ' {\n    background-image: url("/vita-test/images/footer-bg-mobile.png");\n    background-position: bottom center;\n    margin-top: 10.4rem;\n    padding: 4.8rem 1.6rem 9.4rem;\n  }\n',
         ]);
         return (
           (nf = function () {
@@ -2811,7 +2811,7 @@
               (0, i.jsx)(en, {
                 ref: c,
                 children: (0, i.jsx)(nl(), {
-                  src: "/images/hero-animated2.webp",
+                  src: "/vita-test/images/hero-animated2.webp",
                   alt: "Vita Inu",
                   priority: !0,
                   fill: !0,
@@ -2888,23 +2888,23 @@
                         },
                       },
                       children: [
-                        { logo: "/images/1.svg" },
-                        { logo: "/images/2.svg" },
-                        { logo: "/images/3.svg" },
-                        { logo: "/images/4.svg" },
-                        { logo: "/images/5.svg" },
-                        { logo: "/images/7.svg" },
-                        { logo: "/images/8.svg" },
-                        { logo: "/images/9.svg" },
-                        { logo: "/images/10.svg" },
-                        { logo: "/images/12.svg" },
-                        { logo: "/images/13.svg" },
-                        { logo: "/images/15.svg" },
-                        { logo: "/images/17.svg" },
-                        { logo: "/images/18.svg" },
-                        { logo: "/images/19.svg" },
-                        { logo: "/images/21.svg" },
-                        { logo: "/images/22.svg" },
+                        { logo: "/vita-test/images/1.svg" },
+                        { logo: "/vita-test/images/2.svg" },
+                        { logo: "/vita-test/images/3.svg" },
+                        { logo: "/vita-test/images/4.svg" },
+                        { logo: "/vita-test/images/5.svg" },
+                        { logo: "/vita-test/images/7.svg" },
+                        { logo: "/vita-test/images/8.svg" },
+                        { logo: "/vita-test/images/9.svg" },
+                        { logo: "/vita-test/images/10.svg" },
+                        { logo: "/vita-test/images/12.svg" },
+                        { logo: "/vita-test/images/13.svg" },
+                        { logo: "/vita-test/images/15.svg" },
+                        { logo: "/vita-test/images/17.svg" },
+                        { logo: "/vita-test/images/18.svg" },
+                        { logo: "/vita-test/images/19.svg" },
+                        { logo: "/vita-test/images/21.svg" },
+                        { logo: "/vita-test/images/22.svg" },
                       ].map((n, e) => {
                         let { logo: t } = n;
                         return (0, i.jsx)(
@@ -2936,11 +2936,11 @@
           " 0 ",
           ";\n  position: relative;\n\n  @media ",
           ' {\n    padding: 0 1.6rem;\n    margin: 6.4rem 0 6.4rem;\n  }\n\n  &:before {\n    content: "";\n    display: block;\n    position: absolute;\n    left: ',
-          ';\n    top: 0;\n    background-image: url("../../images/features-bg.png");\n    width: ',
+          ';\n    top: 0;\n    background-image: url("../../vita-test/images/features-bg.png");\n    width: ',
           ";\n    height: ",
           ";\n    background-size: 100%;\n    z-index: -1;\n\n    @media ",
           ' {\n      display: none;\n    }\n  }\n\n  &:after {\n    content: "";\n    display: block;\n    position: absolute;\n    right: ',
-          ';\n    background-image: url("../images/features-bg.png");\n    width: ',
+          ';\n    background-image: url("../vita-test/images/features-bg.png");\n    width: ',
           ";\n    height: ",
           ";\n    background-size: 100% 100%;\n    z-index: -1;\n    transform: scaleX(-1);\n\n    @media ",
           " {\n      display: none;\n    }\n  }\n",
@@ -4212,7 +4212,7 @@
       }
       function tI() {
         let n = (0, o._)([
-          '\n  position: relative;\n  overflow: hidden;\n\n  &:before {\n    content: "";\n    display: block;\n    position: absolute;\n    left: 0;\n    top: 0;\n    background-image: url("../images/features-bg.png");\n    width: ',
+          '\n  position: relative;\n  overflow: hidden;\n\n  &:before {\n    content: "";\n    display: block;\n    position: absolute;\n    left: 0;\n    top: 0;\n    background-image: url("../vita-test/images/features-bg.png");\n    width: ',
           ";\n    height: ",
           ";\n    background-size: 100% 100%;\n    z-index: -1;\n\n    @media ",
           " {\n      width: 50rem;\n      height: 50rem;\n      bottom: 4rem;\n      top: unset;\n    }\n  }\n",
@@ -4483,35 +4483,35 @@
                         children: [
                           (0, i.jsx)(tJ, {
                             children: (0, i.jsx)(nl(), {
-                              src: "/images/1.png",
+                              src: "/vita-test/images/1.png",
                               alt: "",
                               fill: !0,
                             }),
                           }),
                           (0, i.jsx)(tJ, {
                             children: (0, i.jsx)(nl(), {
-                              src: "/images/2.png",
+                              src: "/vita-test/images/2.png",
                               alt: "",
                               fill: !0,
                             }),
                           }),
                           (0, i.jsx)(tJ, {
                             children: (0, i.jsx)(nl(), {
-                              src: "/images/3.png",
+                              src: "/vita-test/images/3.png",
                               alt: "",
                               fill: !0,
                             }),
                           }),
                           (0, i.jsx)(tJ, {
                             children: (0, i.jsx)(nl(), {
-                              src: "/images/4.png",
+                              src: "/vita-test/images/4.png",
                               alt: "",
                               fill: !0,
                             }),
                           }),
                           (0, i.jsx)(tJ, {
                             children: (0, i.jsx)(nl(), {
-                              src: "/images/5.png",
+                              src: "/vita-test/images/5.png",
                               alt: "",
                               fill: !0,
                             }),
@@ -4522,35 +4522,35 @@
                         children: [
                           (0, i.jsx)(tJ, {
                             children: (0, i.jsx)(nl(), {
-                              src: "/images/1.png",
+                              src: "/vita-test/images/1.png",
                               alt: "",
                               fill: !0,
                             }),
                           }),
                           (0, i.jsx)(tJ, {
                             children: (0, i.jsx)(nl(), {
-                              src: "/images/2.png",
+                              src: "/vita-test/images/2.png",
                               alt: "",
                               fill: !0,
                             }),
                           }),
                           (0, i.jsx)(tJ, {
                             children: (0, i.jsx)(nl(), {
-                              src: "/images/3.png",
+                              src: "/vita-test/images/3.png",
                               alt: "",
                               fill: !0,
                             }),
                           }),
                           (0, i.jsx)(tJ, {
                             children: (0, i.jsx)(nl(), {
-                              src: "/images/4.png",
+                              src: "/vita-test/images/4.png",
                               alt: "",
                               fill: !0,
                             }),
                           }),
                           (0, i.jsx)(tJ, {
                             children: (0, i.jsx)(nl(), {
-                              src: "/images/5.png",
+                              src: "/vita-test/images/5.png",
                               alt: "",
                               fill: !0,
                             }),
